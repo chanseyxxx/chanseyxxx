@@ -7,6 +7,8 @@ Desenvolvedora Front-End  || Graduanda em análise e desenvolvimento de sistemas
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canva_Logo.png">
 </div>
   
   ##
